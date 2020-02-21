@@ -12,7 +12,7 @@ ______ some people regard as a drawback is seen as a plus by many others.
 
 首先分析从句，这是一个**主语从句**，且句子结构不完整，通过阅读可知，其缺少一个代表“物”的词，故选用**What**。
 
-First analyze the clause, this is a subject clause, and the sentence structure is incomplete. It can be seen from reading that it lacks a word representing "thing", so we choose What.
+First analyze the clause, this is a **subject clause**, and the sentence structure is incomplete. It can be seen from reading that it lacks a word representing "thing", so we choose **What**.
 
 秀儿老师你好哇！:)
 
