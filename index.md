@@ -1,6 +1,6 @@
 ## 欢迎来到我的主页
 
-你可以 [点击这里](https://github.com/JunyiWangComputerSystemStudio/jwcss.github.io/edit/master/index.md) 来填写问卷
+-
 
 在没有建设完成之前，本站将显示一些 [科技新闻](https://www.samsung.com/cn) 和软件分享来充实网站，建设完成后，将尽快上传
 
