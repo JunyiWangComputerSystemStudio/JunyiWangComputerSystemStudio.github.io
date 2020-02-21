@@ -4,13 +4,15 @@
 
 ### 2020年2月21日秀儿老师英语每日一题
 
-今天的答案是**that**
+______ some people regard as a drawback is seen as a plus by many others.
+
+今天的答案是**What**
 
 双语解释：
 
-首先分析从句，这是一个**同位语从句**，且句子结构完整，通过阅读可知，句子语义完整，故选用**that**。
+首先分析从句，这是一个**主语从句**，且句子结构不完整，通过阅读可知，其缺少一个代表“物”的词，故选用**What**。
 
-First analyze the clause, this is an **appositive clause**, and the sentence structure is complete. It can be seen through reading that the sentence is semantically complete, so I chose **that**.
+First analyze the clause, this is a subject clause, and the sentence structure is incomplete. It can be seen from reading that it lacks a word representing "thing", so we choose What.
 
 秀儿老师你好哇！:)
 
