@@ -2,20 +2,6 @@
 
 在没有建设完成之前，本站将显示一些 [科技新闻](https://www.samsung.com/cn) 和软件分享来充实网站，建设完成后，将尽快上传
 
-### 2020年2月21日秀儿老师英语每日一题
-
-______ some people regard as a drawback is seen as a plus by many others.
-
-今天的答案是**What**
-
-双语解释：
-
-首先分析从句，这是一个**主语从句**，且句子结构不完整，通过阅读可知，其缺少一个代表“物”的词，故选用**What**。
-
-First analyze the clause, this is a **subject clause**, and the sentence structure is incomplete. It can be seen from reading that it lacks a word representing "thing", so we choose **What**.
-
-秀儿老师你好哇！:)
-
 ### 科技新闻
 
 三星Samsung 盖乐世**Galaxy S20 S20+ S20 Ultra** 荣耀发布
